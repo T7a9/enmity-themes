@@ -1,11 +1,11 @@
 {
-  "name": "Blushy",
-  "description": "A pink, lush, and fresh blush.",
-  "version": "2.0",
+  "name": "Blush7a9",
+  "description": "Remake of Kota's theme without a background",
+  "version": "1.0",
   "authors": [
     {
-      "name": "Kota",
-      "id": "905272587674853376"
+      "name": "toshi",
+      "id": "376735791222620170"
     }
   ],
   "theme_color_map": {
@@ -149,9 +149,4 @@
   "unsafe_colors": {
     "CHAT_GREY": "#120212"
   },
-  "background": {
-    "blur": 0.1,
-    "url": "",
-    "alpha": 0.1
   }
-}
